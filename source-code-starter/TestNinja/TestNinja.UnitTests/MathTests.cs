@@ -24,7 +24,7 @@ namespace TestNinja.UnitTests {
         // More possible at Integration Tests where maybe we want to clear things at the database
 
         [Test]
-        [Ignore("Because I wanted to!")]
+        //[Ignore("Because I wanted to!")]
         public void Add_WhenCalled_ReturnTheSumOfArgumnets() {
 
             var result = _math.Add(1, 2);
