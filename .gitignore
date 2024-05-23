@@ -7,7 +7,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-.source-code-starter/TestNinja/.vs/
+source-code-starter/TestNinja/.vs/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
